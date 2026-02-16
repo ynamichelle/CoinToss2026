@@ -15,3 +15,7 @@ No5 Canvass H&T Table& Tiles
 
 No6 Canvass H&T Combine
 <img width="1008" height="724" alt="Screenshot 2026-02-16 105432" src="https://github.com/user-attachments/assets/d1c03c6a-7fe5-4978-8af3-43abfa84e431" />
+
+
+Conclusion
+From our coin-flipping activity, we analyzed the probability of getting Heads and Tails after flipping a coin 3,100 times. We observed that Heads occurred 1,569 times, which is approximately 50.61% of all trials, while Tails occurred 1,329 times, or about 42.87%. These results show that the outcomes of repeated coin flips tend to approach an even distribution between Heads and Tails. Although the counts are not perfectly equal, the experiment demonstrates the concept of experimental probability — as the number of trials increases, the results move closer to the expected theoretical probability of 50% for each outcome. This activity helped us understand how probability works in real experiments and how randomness can still produce slight variations in results.
